@@ -1,0 +1,12 @@
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-WindowsForms2\CursoWindowsFormsBiblioteca\bin\Release\net8.0\CursoWindowsFormsBiblioteca.deps.json
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-WindowsForms2\CursoWindowsFormsBiblioteca\bin\Release\net8.0\CursoWindowsFormsBiblioteca.dll
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-WindowsForms2\CursoWindowsFormsBiblioteca\bin\Release\net8.0\CursoWindowsFormsBiblioteca.pdb
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-WindowsForms2\CursoWindowsFormsBiblioteca\obj\Release\net8.0\CursoWindowsFormsBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-WindowsForms2\CursoWindowsFormsBiblioteca\obj\Release\net8.0\CursoWindowsFormsBiblioteca.AssemblyInfoInputs.cache
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-WindowsForms2\CursoWindowsFormsBiblioteca\obj\Release\net8.0\CursoWindowsFormsBiblioteca.AssemblyInfo.cs
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-WindowsForms2\CursoWindowsFormsBiblioteca\obj\Release\net8.0\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-WindowsForms2\CursoWindowsFormsBiblioteca\obj\Release\net8.0\CursoWindowsFormsBiblioteca.sourcelink.json
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-WindowsForms2\CursoWindowsFormsBiblioteca\obj\Release\net8.0\CursoWindowsFormsBiblioteca.dll
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-WindowsForms2\CursoWindowsFormsBiblioteca\obj\Release\net8.0\refint\CursoWindowsFormsBiblioteca.dll
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-WindowsForms2\CursoWindowsFormsBiblioteca\obj\Release\net8.0\CursoWindowsFormsBiblioteca.pdb
+C:\Users\vsdua\OneDrive\Área de Trabalho\Dev\Alura-WindowsForms2\CursoWindowsFormsBiblioteca\obj\Release\net8.0\ref\CursoWindowsFormsBiblioteca.dll

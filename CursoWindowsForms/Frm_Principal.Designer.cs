@@ -62,7 +62,7 @@
             // Btn_Mascara
             // 
             this.Btn_Mascara.Image = ((System.Drawing.Image)(resources.GetObject("Btn_Mascara.Image")));
-            this.Btn_Mascara.Location = new System.Drawing.Point(252, 12);
+            this.Btn_Mascara.Location = new System.Drawing.Point(250, 12);
             this.Btn_Mascara.Name = "Btn_Mascara";
             this.Btn_Mascara.Size = new System.Drawing.Size(111, 48);
             this.Btn_Mascara.TabIndex = 2;
@@ -107,7 +107,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(377, 126);
+            this.ClientSize = new System.Drawing.Size(375, 125);
             this.Controls.Add(this.Btn_ValidaSenha);
             this.Controls.Add(this.Btn_ValidaCPF2);
             this.Controls.Add(this.Btn_ValidaCPF);
